@@ -14,16 +14,16 @@
 
 unsigned long lastTime;
 char link_bin[100];
-const char* ssid = "1111";
-const char* password = "mothaibabonnamsau";
+const char* ssid = "Lau 1 2B 2.5G";
+const char* password = "dangky4G";
 #define ARDUINOJSON_USE_LONG_LONG 1
 stm32ota STM32(5, 4, 2);  //For use with libray STM32OTA
 
-const char* link_Updt  = "you Link";
+const char* link_Updt  = "https://raw.githubusercontent.com/VIinhQuang/OTA_STM32_ESP32/main/LinkUpdt.txt";
 
 boolean MandatoryUpdate = false;
 //----------------------------------------------------------------------------------
-const int buttonPin = 9;
+const int buttonPin = 21;
 const int ledPin = 2;
 boolean aux = false;
 

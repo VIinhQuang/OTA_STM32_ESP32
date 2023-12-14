@@ -1,5 +1,5 @@
 {
-  "link": "https://raw.githubusercontent.com/VIinhQuang/OTA_STM32_ESP32/main/build/blink1s.bin",  
+  "link": "https://raw.githubusercontent.com/VIinhQuang/OTA_STM32_ESP32/main/build/blink5s.bin",  
   "Mandatory": false,
   "sw" :3.0
   }

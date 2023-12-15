@@ -18,7 +18,7 @@ const char* ssid = "HardwareLab";
 const char* password = "Hayuongbidao";
 
 
-const char* link_Updt = link_Updt = "https://raw.githubusercontent.com/VIinhQuang/OTA_STM32_ESP32/main/LinkUpdt.txt";
+const char* link_Updt = link_Updt = "https://raw.githubusercontent.com/VIinhQuang/OTA_STM32_ESP8266/main/LinkUpdt.txt";
 char link_bin[100];
 boolean MandatoryUpdate = false;
 //----------------------------------------------------------------------------------

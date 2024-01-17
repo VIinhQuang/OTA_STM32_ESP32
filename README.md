@@ -1,7 +1,7 @@
 Connections
-ESP8266 Pin	      NodeMCU Pin	      STM32 MCU
+ESP8266 Pin       NodeMCU Pin       STM32 MCU
 
-RXD	              RXD	               PA9
+RXD               RXD                PA9
 
 TXD	              TXD	               PA10
 

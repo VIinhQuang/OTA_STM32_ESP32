@@ -6,3 +6,4 @@ Pin4	            D2          	     BOOT0
 Pin5	            D1        	       RST
 Vcc	              3.3	               3.3V
 GND	              GND	               GND
+
